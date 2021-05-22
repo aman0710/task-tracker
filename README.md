@@ -1,3 +1,13 @@
+# About My Project
+This project is created using ReactJS. It displays our tasks and we can add or delete tasks whenever we want. We can also toggle the reminder of any task by double-clicking on the task.
+
+
+## Link to my project :
+https://task-tracker0710.herokuapp.com/
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,6 +79,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-
-## Link to my project :
-https://task-tracker0710.herokuapp.com/
